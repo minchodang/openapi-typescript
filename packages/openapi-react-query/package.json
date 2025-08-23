@@ -1,10 +1,10 @@
 {
-  "name": "openapi-react-query",
+  "name": "@minchodang/openapi-react-query",
   "description": "Fast, type-safe @tanstack/react-query client to work with your OpenAPI schema.",
   "version": "0.5.0",
   "author": {
-    "name": "Martin Paucot",
-    "email": "contact@martin-paucot.fr"
+    "name": "Minchodang",
+    "email": "minsu910725@gmail.com"
   },
   "license": "MIT",
   "type": "module",
@@ -20,7 +20,7 @@
   "homepage": "https://openapi-ts.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openapi-ts/openapi-typescript",
+    "url": "https://github.com/minchodang/openapi-typescript",
     "directory": "packages/openapi-react-query"
   },
   "bugs": {
@@ -71,5 +71,8 @@
   "peerDependencies": {
     "@tanstack/react-query": "^5.25.0",
     "openapi-fetch": "workspace:^"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
