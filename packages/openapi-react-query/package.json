@@ -1,7 +1,7 @@
 {
   "name": "@minchodang/openapi-react-query",
   "description": "Fast, type-safe @tanstack/react-query client to work with your OpenAPI schema.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "author": {
     "name": "Minchodang",
     "email": "minsu910725@gmail.com"
